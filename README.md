@@ -2,7 +2,7 @@
 
 **View branches for course work**
 
-### Constructors in Graphics
+### Lab 3: Constructors in Graphics
 
 ###### Course Description
 
