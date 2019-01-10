@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Lab 1: Introduction to Eclipse IDE and Command Prompt
+
 ###### Course Description
 
 Introduction to the fundamentals of software design through object-oriented programming, abstraction
