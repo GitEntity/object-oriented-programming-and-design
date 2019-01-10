@@ -2,7 +2,7 @@
 
 **View branches for course work**
 
-###### Assignment 2: Implementing Classes and Data Types
+**Assignment 2: Implementing Classes and Data Types**
 
 ### Course Description
 
