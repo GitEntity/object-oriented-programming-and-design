@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Lab 2: UI and GUI, Input and Output, Passing Arguments
+
 ###### Course Description
 
 Introduction to the fundamentals of software design through object-oriented programming, abstraction
