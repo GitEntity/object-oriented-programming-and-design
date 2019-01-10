@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+###### Assignment 2: Implementing Classes and Data Types
+
 ### Course Description
 
 Introduction to the fundamentals of software design through object-oriented programming, abstraction
