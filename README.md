@@ -2,7 +2,7 @@
 
 **View branches for course work**
 
-### Course Description
+###### Course Description
 
 Introduction to the fundamentals of software design through object-oriented programming, abstraction
 principles, information hiding and encapsulation. Introduction to design tools like pseudo-coding and
