@@ -4,7 +4,7 @@
 
 ### Assignment 1: The Basic Concept of Classes
 
-### Course Description
+###### Course Description
 
 Introduction to the fundamentals of software design through object-oriented programming, abstraction
 principles, information hiding and encapsulation. Introduction to design tools like pseudo-coding and
